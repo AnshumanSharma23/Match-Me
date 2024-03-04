@@ -1,6 +1,13 @@
 
 # Resume Matcher Tool
 
+
+
+
+https://github.com/AnshumanSharma23/Match-Me/assets/158674716/c2c0799f-1121-43d0-9e82-ef5a367a1d41
+
+
+
 ## Introduction
 The Resume Matcher Tool is an innovative web application designed to revolutionize the recruitment process. Leveraging OpenAI's powerful API, this tool automates the matching of candidates' resumes with job postings, ensuring a high degree of alignment in terms of skills and requirements. This project aims to streamline the recruitment workflow, making it easier for recruiters to identify suitable candidates efficiently.
 
