@@ -1,0 +1,92 @@
+{
+    "name": "Anshuman Sharma",
+    "location": "Irvine, California",
+    "phone": "(949) 279-7105",
+    "email": "anshums3@uci.edu",
+    "linkedin": "linkedin.com/in/anshumansharma23/",
+    "portfolio": "anshumansharma23.github.io",
+    "objective": "Data professional with an MS in Data Science and approximately 3 years of industry experience specializing in Data Engineering, Data Science and Business Intelligence. Proficient in Machine Learning, Statistics, and adept at building and integrating data solutions, including real-time analytics and reporting. Lean Six Sigma Green Belt certified, with a track record of driving efficiency and quality improvement initiatives.",
+    "education": [
+      {
+        "institution": "University of California Irvine, Donald Bren School of Information and Computer Science",
+        "location": "Irvine, CA",
+        "degree": "Master of Science in Data Science",
+        "gpa": "3.61/4.0",
+        "year": 2023,
+        "honors": "Program Ambassador"
+      },
+      {
+        "institution": "MDS Amity University, Amity School of Engineering and Technology",
+        "location": "Noida, India",
+        "degree": "Bachelor of Technology in Computer Science and Engineering",
+        "gpa": "3.88/4.0",
+        "year": 2020,
+        "leadership": "Convener AmityWE (An Entrepreneurship Club), Hostel & Student Committee Head"
+      }
+    ],
+    "skills": {
+      "programming": ["Python", "R", "SQL", "Shell Scripting"],
+      "frameworks_packages": ["Apache Airflow", "Spark", "Data Warehousing (Redshift, Snowflake, SAP BW)", "Pandas", "Numpy", "Docker", "Hadoop", "Git", "NoSQL", "Apache Kafka", "Cassandra", "Tableau", "Power BI", "Looker", "Look ML", "AWS", "Azure", "PySpark", "Databricks"],
+      "statistical_modeling": ["Linear", "Logistic & Multivariate Regression", "Hypothesis Testing", "Chi-Squared tests", "Bayesian Methods", "Time Series"],
+      "other": ["Project Management (Agile)", "Stakeholder Communication", "JIRA for Task Management", "A/B Testing"]
+    },
+    "experience": [
+      {
+        "company": "Dell Technologies",
+        "location": "Round Rock, Texas",
+        "position": "Data Analyst Intern",
+        "dates": "Jun 2023 - Aug 2023",
+        "responsibilities": [
+          "Conducted in-depth interviews exceeding 50 sessions to meticulously gather requirements, pinpointing gaps, and strategizing solutions to fortify data infrastructure.",
+          "Identified gaps in data integration processes and implemented a robust solution, enabling more than 6 different data-providers to integrate into one centralized warehouse. This initiative streamlined data workflows, enhancing efficiency and reliability across the organization.",
+          "Orchestrated the consolidation of insights from 9+ reports, resulting in significant annual time savings of 5,000+ hours. This transformative initiative contributed to a remarkable 12% boost in overall productivity.",
+          "Promoted dashboard adoption, seamlessly integrating with the PAN ISG application to target 10,000+ hours in annual time savings for enhanced organizational efficiency."
+        ]
+      },
+      {
+        "company": "Accenture",
+        "location": "Gurugram, India",
+        "position": "Data Engineer",
+        "dates": "Oct 2020 - Jul 2022",
+        "responsibilities": [
+          "Led projects with Sales Executives & Data Engineers to define sales KPIs, identify trends, and present performance results using Tableau.",
+          "Designed robust, scalable data pipelines in collaboration with the Lead Data Engineers, processing millions of records daily.",
+          "Optimized data pipelines, resulting in a 20% reduction in data transfer delay for the North American region.",
+          "Led a high-performing team of 5 to surpass SLA benchmarks, achieving an impressive 98% on-time delivery rate for critical BI reports.",
+          "Utilized SAP BW techniques, such as data partitioning and selective deletion, to optimize system performance and enhance analytics workflows."
+        ]
+      },
+      {
+        "company": "Samsung Research Institute (SRI-D)",
+        "location": "Noida, India",
+        "position": "Data Engineer Intern",
+        "dates": "Feb 2020 - Apr 2022",
+        "responsibilities": [
+          "Implemented Apache Kafka to capture real-time logs of tests executed by Robot Framework in Python, establishing an alert system to promptly identify failures. This effort resulted in a 80% reduction in system monitoring, streamlining QA processes."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Internal ChatGPT",
+        "client": "City of Irvine",
+        "description": "Engineered an efficient ChatGPT system for the City of Irvine, optimizing query processing and user interactions with a vast dataset of over 1 million documents. Utilized Llama2, Python, and Streamlit for seamless functionality."
+      },
+      {
+        "name": "Interchange.com",
+        "client": "UCI",
+        "description": "Developed and optimized an ER-Model database for an E-Commerce website, enhancing performance, scalability, and security measures against unauthorized breach."
+      },
+      {
+        "name": "Airflow-Powered Data Pipeline Development",
+        "client": "Apache Airflow, PostgreSQL",
+        "description": "Deployed a comprehensive data pipeline using Apache Airflow, managing tasks from PostgreSQL table creation to advanced operations such as API availability checks, user data extraction, processing, and secure storage in the password database."
+      }
+    ],
+    "certifications": [
+      "Lean Six Sigma Green Belt Certified.",
+      "Microsoft Azure Data Fundamentals.",
+      "Looker and Data Specialization."
+    ]
+  }
+  
