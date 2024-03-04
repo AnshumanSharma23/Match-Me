@@ -26,10 +26,7 @@ The Resume Matcher Tool is an innovative web application designed to revolutioni
 ### Installation
 
 1. **Clone the repository**
-   ```sh
-   git clone https://github.com/yourgithubusername/resume-matcher-tool.git
-   cd resume-matcher-tool
-   ```
+   
 
 2. **Set up environment variables**
    - Create a `.env` file in the project root directory.
